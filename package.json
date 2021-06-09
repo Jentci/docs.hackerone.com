@@ -15,7 +15,7 @@
     "gatsby-plugin-layout": "^1.1.4",
     "gatsby-plugin-react-helmet": "^3.1.4",
     "gatsby-plugin-sass": "^2.1.10",
-    "gatsby-plugin-sharp": "^2.2.13",
+    "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-plugin-sitemap": "^2.2.7",
     "gatsby-plugin-slug": "^1.1.1",
     "gatsby-plugin-sri": "^1.0.11",
